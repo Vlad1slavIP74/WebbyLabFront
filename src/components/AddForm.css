@@ -1,0 +1,11 @@
+.Form{
+  margin: 0 auto;
+  width: 200px;
+  background: black;
+  padding: 20px;
+  color: white;
+}
+
+input{
+  text-transform: capitalize;
+}

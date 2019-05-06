@@ -1,0 +1,11 @@
+.SearchByNameForm{
+  float: left;
+  width: 200px;
+  background: black;
+  padding: 20px;
+  color: white;
+}
+
+button {
+    margin-right: 15px;
+}
